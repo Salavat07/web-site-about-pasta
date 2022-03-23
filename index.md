@@ -1,37 +1,148 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Spin-off of "Project: Recipe book"</title>
+        <meta charset="utf-8">
+        <style>
+        body {
+            background-color:rgb(209, 246, 255);
+        }
+        #a{
+            color:rgb(255, 72, 31);
+            
+        }
+        #bb{
+            color:rgb(45, 158, 0);
+        }
+        #ww{
+            color:rgb(213, 0, 255);
+        }
+        </style>
+    </head>
+    <body>
+       
+        <h1 id="a"><em>Carbonara's Recipe Book</em></h1>
+        
+        <h2>Contents:</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Espaguetis_carbonara.jpg" height="128" width="224">
+        
+        <ol>
+            <li><a href="#bb"> French type of Carbonara</a></li>
+            <li><a href="#qq"> Italian way to cook Carbonara </a> </li>
+        </ol>
+        
+        <h2 id="bb"><em>French Carbonara:</em></h2>
+        
+        <ul>
+            <li>Time: 45 Min</li>
+            <li>Serves: French spaggeti & bacon & cheese</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>Spaggeti 
+               
+                <td>1 Pack</td>
+                <td> 
+            </tr>
+            </tbody>
+              <tbody>
+            <tr>
+                <td>Salt 
+               
+                <td> 2-3 spoons </td>
+                <td> 
+            </tr>
+            </tbody>
+              <tbody>
+            <tr>
+                <td>Bacon
+                <td>300-400 gr</td>
+                <td> 
+            </tr>
+            </tbody>
+              <tbody>
+            <tr>
+                <td>Cheese
+                <td> As you wish</td>
+                <td> 
+            </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Cook spaggeti in the pan
+</p>
+<p><strong>Step 2:</strong> Fry the bacon for meddium type
+</p>
+<p><strong>Step 3:</strong> Mix them all (Bacon with spaggeti)
+</p>
+<p><strong>Step 4:</strong> Add chhese and salt as you wish
+</p>
+        
+    <p><em>Source: <a href="https://www.bbcgoodfood.com/recipes/ultimate-spaghetti-carbonara-recipe">French carbonara here</a></em></p>
+    
+    </body>
+    <h2 id="ww"><em>Italian Carbonara:</em></h2>
+    <ul>
+            <li>Time: 30 Min</li>
+            <li>Serves: Italian spaggeti & chicken & cheese & wine</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td> Italian Spaggeti:
+               
+                <td> 1 Pack</td>
+                <td> 
+            </tr>
+            </tbody>
+              <tbody>
+            <tr>
+                <td>Salt: 
+               
+                <td> 2 spoons </td>
+                <td> 
+            </tr>
+            </tbody>
+              <tbody>
+            <tr>
+                <td>Chichen:
+                <td>500 gr</td>
+                <td> 
+            </tr>
+            </tbody>
+              <tbody>
+            <tr>
+                <td>Cheese & Wine: 
+                <td> add wine 100 gr</td>
+                <td> 
+            </tr>
+            </tbody>
+        </table>
+        
+        <p><a id="qq"><strong>Step 1:</strong></a> Cook spaggeti in the pan and leave for 10 minutes
+</p>
+<p><strong>Step 2:</strong> Fry the chicken for meddium type and add wine 
+</p>
+<p><strong>Step 3:</strong> Mix them all (Chicken with spaggeti)
+</p>
+<p><strong>Step 4:</strong> Add cheese and salt as you wish
+</p>
+        
+    <p><em>Source: <a href="https://www.recipesfromitaly.com/spaghetti-carbonara-original-recipe/">Italian carbonara here</a></em></p>
+</html>
 
-You can use the [editor on GitHub](https://github.com/Salavat07/salavat.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Salavat07/salavat.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
