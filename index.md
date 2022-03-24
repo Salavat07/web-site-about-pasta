@@ -94,7 +94,7 @@
                 </tr>
              </thead>
         </table>
-        <p><a id="qq"><strong>Step 1:</strong></a> Cook spaggeti in the pan and leave for 10 minutes</p>
+        <p><strong>Step 1:</strong> Cook spaggeti in the pan and leave for 10 minutes</p>
         <p><strong>Step 2:</strong> Fry the chicken for meddium type and add wine</p>
         <p><strong>Step 3:</strong> Mix them all (Chicken with spaggeti)</p>
         <p><strong>Step 4:</strong> Add cheese and salt as you wish</p>
