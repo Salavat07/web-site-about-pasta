@@ -30,7 +30,7 @@
             <li><a href="#qq"> Italian way to cook Carbonara </a> </li>
         </ol>
 
-        <h3 id="bb"><em>French Carbonara:</em></h3>
+        <h2 id="bb"><em>French Carbonara:</em></h2>
 
         <ul>
             <li>Time: 45 Min</li>
@@ -65,7 +65,7 @@
         <p><strong>Step 3:</strong> Mix them all (Bacon with spaggeti)</p>
         <p><strong>Step 4:</strong> Add chhese and salt as you wish</p>
         <p><em>Source: <a href="https://www.bbcgoodfood.com/recipes/ultimate-spaghetti-carbonara-recipe">French carbonara here</a></em></p>
-        <h4 id="ww"><em>Italian Carbonara:</em></h4>
+        <h2 id="ww"><em>Italian Carbonara:</em></h2>
         <ul>
             <li>Time: 30 Min</li>
             <li>Serves: Italian spaggeti & chicken & cheese & wine</li>
