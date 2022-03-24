@@ -47,32 +47,27 @@
             </thead>
             <tbody>
             <tr>
-                <td>Spaggeti 
-               
+                <td>Spaggeti               
                 <td>1 Pack</td>
-                <td> 
             </tr>
             </tbody>
               <tbody>
             <tr>
-                <td>Salt 
-               
-                <td> 2-3 spoons </td>
-                <td> 
+                <td>Salt </td>
+                <td> 2-3 spoons </td>  
             </tr>
             </tbody>
               <tbody>
             <tr>
-                <td>Bacon
+                <td>Bacon</td>
                 <td>300-400 gr</td>
-                <td> 
+
             </tr>
             </tbody>
               <tbody>
             <tr>
-                <td>Cheese
+                <td>Cheese</td>
                 <td> As you wish</td>
-                <td> 
             </tr>
             </tbody>
         </table>
