@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <head>
         <title>Spin-off of "Project: Recipe book"</title>
@@ -9,7 +8,7 @@
         }
         #a{
             color:rgb(255, 72, 31);
-            
+
         }
         #bb{
             color:rgb(45, 158, 0);
@@ -20,124 +19,86 @@
         </style>
     </head>
     <body>
-       
+
         <h1 id="a"><em>Carbonara's Recipe Book</em></h1>
-        
+
         <h2>Contents:</h2>
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Espaguetis_carbonara.jpg" height="128" width="224">
-        
+
         <ol>
             <li><a href="#bb"> French type of Carbonara</a></li>
             <li><a href="#qq"> Italian way to cook Carbonara </a> </li>
         </ol>
-        
+
         <h2 id="bb"><em>French Carbonara:</em></h2>
-        
+
         <ul>
             <li>Time: 45 Min</li>
             <li>Serves: French spaggeti & bacon & cheese</li>
         </ul>
-        
         <table>
             <thead>
                 <tr>
                     <th>Ingredients</th>
                     <th>Quantity</th>
                 </tr>
+                <tr>
+                    <td>Spaggeti</td>
+                    <td>1 Pack</td>
+                </tr>
+                <tr>
+                    <td>Salt </td>
+                    <td> 2-3 spoons </td>
+                </tr>
+                <tr>
+                    <td>Bacon</td>
+                    <td>300-400 gr</td>
+                </tr>
+                <tr>
+                    <td>Cheese</td>
+                    <td> As you wish</td>
+                </tr>
             </thead>
-            <tbody>
-            <tr>
-                <td>Spaggeti               
-                <td>1 Pack</td>
-            </tr>
-            </tbody>
-              <tbody>
-            <tr>
-                <td>Salt </td>
-                <td> 2-3 spoons </td>  
-            </tr>
-            </tbody>
-              <tbody>
-            <tr>
-                <td>Bacon</td>
-                <td>300-400 gr</td>
-
-            </tr>
-            </tbody>
-              <tbody>
-            <tr>
-                <td>Cheese</td>
-                <td> As you wish</td>
-            </tr>
-            </tbody>
         </table>
-        
-        <p><strong>Step 1:</strong> Cook spaggeti in the pan
-</p>
-<p><strong>Step 2:</strong> Fry the bacon for meddium type
-</p>
-<p><strong>Step 3:</strong> Mix them all (Bacon with spaggeti)
-</p>
-<p><strong>Step 4:</strong> Add chhese and salt as you wish
-</p>
-        
-    <p><em>Source: <a href="https://www.bbcgoodfood.com/recipes/ultimate-spaghetti-carbonara-recipe">French carbonara here</a></em></p>
-    
-    </body>
-    <h2 id="ww"><em>Italian Carbonara:</em></h2>
-    <ul>
+        <p><strong>Step 1:</strong> Cook spaggeti in the pan</p>
+        <p><strong>Step 2:</strong> Fry the bacon for meddium type</p>
+        <p><strong>Step 3:</strong> Mix them all (Bacon with spaggeti)</p>
+        <p><strong>Step 4:</strong> Add chhese and salt as you wish</p>
+        <p><em>Source: <a href="https://www.bbcgoodfood.com/recipes/ultimate-spaghetti-carbonara-recipe">French carbonara here</a></em></p>
+        <h2 id="ww"><em>Italian Carbonara:</em></h2>
+        <ul>
             <li>Time: 30 Min</li>
             <li>Serves: Italian spaggeti & chicken & cheese & wine</li>
         </ul>
-        
         <table>
             <thead>
                 <tr>
                     <th>Ingredients</th>
                     <th>Quantity</th>
                 </tr>
-            </thead>
-            <tbody>
-            <tr>
-                <td> Italian Spaggeti:
-               
-                <td> 1 Pack</td>
-                <td> 
-            </tr>
-            </tbody>
-              <tbody>
-            <tr>
-                <td>Salt: 
-               
-                <td> 2 spoons </td>
-                <td> 
-            </tr>
-            </tbody>
-              <tbody>
-            <tr>
-                <td>Chichen:
-                <td>500 gr</td>
-                <td> 
-            </tr>
-            </tbody>
-              <tbody>
-            <tr>
-                <td>Cheese & Wine: 
-                <td> add wine 100 gr</td>
-                <td> 
-            </tr>
-            </tbody>
+                <tr>
+                    <td> Italian Spaggeti:</td>
+                    <td> 1 Pack</td>
+                </tr>
+                <tr>
+                    <td>Salt:</td>
+                    <td> 2 spoons </td>
+                </tr>
+                <tr>
+                    <td>Chichen:</td>
+                    <td>500 gr</td>
+                </tr>
+                <tr>
+                    <td>Cheese & Wine:</td>
+                    <td> add wine 100 gr</td>
+                </tr>
+             <thead>
         </table>
-        
-        <p><a id="qq"><strong>Step 1:</strong></a> Cook spaggeti in the pan and leave for 10 minutes
-</p>
-<p><strong>Step 2:</strong> Fry the chicken for meddium type and add wine 
-</p>
-<p><strong>Step 3:</strong> Mix them all (Chicken with spaggeti)
-</p>
-<p><strong>Step 4:</strong> Add cheese and salt as you wish
-</p>
-        
-    <p><em>Source: <a href="https://www.recipesfromitaly.com/spaghetti-carbonara-original-recipe/">Italian carbonara here</a></em></p>
-</html>
 
+        <p><a id="qq"><strong>Step 1:</strong></a> Cook spaggeti in the pan and leave for 10 minutes</p>
+        <p><strong>Step 2:</strong> Fry the chicken for meddium type and add wine</p>
+        <p><strong>Step 3:</strong> Mix them all (Chicken with spaggeti)</p>
+        <p><strong>Step 4:</strong> Add cheese and salt as you wish</p>
+        <p><em>Source: <a href="https://www.recipesfromitaly.com/spaghetti-carbonara-original-recipe/">Italian carbonara here</a></em></p>
+    </body>
+</html>
