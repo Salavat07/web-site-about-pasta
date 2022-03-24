@@ -30,7 +30,7 @@
             <li><a href="#qq"> Italian way to cook Carbonara </a> </li>
         </ol>
 
-        <h2 id="bb"><em>French Carbonara:</em></h2>
+        <h3 id="bb"><em>French Carbonara:</em></h3>
 
         <ul>
             <li>Time: 45 Min</li>
@@ -47,8 +47,8 @@
                     <td>1 Pack</td>
                 </tr>
                 <tr>
-                    <td>Salt </td>
-                    <td> 2-3 spoons </td>
+                    <td>Salt</td>
+                    <td> 2-3 spoons</td>
                 </tr>
                 <tr>
                     <td>Bacon</td>
@@ -65,7 +65,7 @@
         <p><strong>Step 3:</strong> Mix them all (Bacon with spaggeti)</p>
         <p><strong>Step 4:</strong> Add chhese and salt as you wish</p>
         <p><em>Source: <a href="https://www.bbcgoodfood.com/recipes/ultimate-spaghetti-carbonara-recipe">French carbonara here</a></em></p>
-        <h2 id="ww"><em>Italian Carbonara:</em></h2>
+        <h4 id="ww"><em>Italian Carbonara:</em></h4>
         <ul>
             <li>Time: 30 Min</li>
             <li>Serves: Italian spaggeti & chicken & cheese & wine</li>
@@ -92,9 +92,8 @@
                     <td>Cheese & Wine:</td>
                     <td> add wine 100 gr</td>
                 </tr>
-             <thead>
+             </thead>
         </table>
-
         <p><a id="qq"><strong>Step 1:</strong></a> Cook spaggeti in the pan and leave for 10 minutes</p>
         <p><strong>Step 2:</strong> Fry the chicken for meddium type and add wine</p>
         <p><strong>Step 3:</strong> Mix them all (Chicken with spaggeti)</p>
