@@ -73,8 +73,8 @@
         <table>
             <thead>
                 <tr>
-                    <th>Ingredients</th>
-                    <th>Quantity</th>
+                    <td>Ingredients</td>
+                    <td>Quantity</td>
                 </tr>
                 <tr>
                     <td> Italian Spaggeti:</td>
